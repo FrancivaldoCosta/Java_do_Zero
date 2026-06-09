@@ -14,7 +14,8 @@ public class CleanCode {
 		/* Espaços entre os comandos */ 
 		/* Evita juntar como (soma=10+20) */ 
 		int soma = 10 + 20;
-		
+
+		System.out.println("Soma: " + soma);
 			
 	}
 	
