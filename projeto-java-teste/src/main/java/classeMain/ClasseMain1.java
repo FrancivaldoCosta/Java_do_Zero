@@ -5,7 +5,7 @@ public class ClasseMain1 {
 	public static void main(String[] args) {
 
 		System.out.println("Olá Java");
-		System.out.println("Testando credencial");
+		System.out.println("Testando credencial2");
 
 	}
 
