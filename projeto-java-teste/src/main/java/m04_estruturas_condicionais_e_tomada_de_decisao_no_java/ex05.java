@@ -5,7 +5,7 @@ public class ex05 {
 
 	public static void main(String[] args) {
 		
-		StatusPedido statusPedido = StatusPedido.ESTORNADO;
+		StatusPedido statusPedido = StatusPedido.ENVIADO;
 		
 		String retorno = switch (statusPedido) {
 		
