@@ -20,7 +20,7 @@ public class ex02 {
 		
 		Produto[] produtos = { p1, p2, p3 }; /* Posição do array inicia em zero(0); */
 		
-		System.out.println("===================================Percorrendo o array com indices===================================");
+		System.out.println(" ================= Percorrendo o array com indices ================= ");
 		/* Usamos o índice quando precisamos pegar a posição (Pegar na posição que o usuário selecionou na tela) */
 		
 		for (int i = 0; i < produtos.length; i++) { /* Produto.length retorna 3 */
@@ -32,7 +32,7 @@ public class ex02 {
 		}
 		
 		
-		System.out.println("===================================Percorrendo o array com For Each===================================");
+		System.out.println(" ================= Percorrendo o array com For Each ================= ");
 		
 		
 		for (Produto produto : produtos) {
