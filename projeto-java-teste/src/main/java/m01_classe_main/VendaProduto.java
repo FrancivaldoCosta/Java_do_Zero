@@ -1,4 +1,4 @@
-package classeMain;
+package m01_classe_main;
 
 /*Nome de classe deve sempre começar com maiúscula*/
 public class VendaProduto {
